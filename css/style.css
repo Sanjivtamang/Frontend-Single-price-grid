@@ -150,3 +150,8 @@ a {
         border-radius: 0 0 10px 10px;
     }
 } 
+
+footer, p {
+    text-align: center;
+    margin-top: 20px;
+}
